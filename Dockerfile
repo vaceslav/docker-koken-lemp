@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.11
+FROM phusion/baseimage
 MAINTAINER Brad Daily <brad@koken.me>
 
 ENV HOME /root
